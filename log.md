@@ -5,3 +5,5 @@ Day 02 (04-01-2024) - Today I have created a category tree button using tailwind
 Day 03 (05-01-2024) - Today I have created three level of rows in the category button, when we hover on the button..
 
 Day 04 (06-01-2024) - Today created branches of the category tree button, when we hover on the list it will show it's branches..
+
+Day 05 (07-01-2024) - Today added settimeout() funcn in the category tree button, for all the branches.
