@@ -7,3 +7,5 @@ Day 03 (05-01-2024) - Today I have created three level of rows in the category b
 Day 04 (06-01-2024) - Today created branches of the category tree button, when we hover on the list it will show it's branches..
 
 Day 05 (07-01-2024) - Today added settimeout() funcn in the category tree button, for all the branches.
+
+Day 06 (08-01-2024) - Today I removed setTimeout() func, and i used a better method using ternary operator. This category button is for testing porpose and its hardcoded, next i going to fetch datas from api.....
