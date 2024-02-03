@@ -15,3 +15,5 @@ Day 07 (09-01-2024) - Today adding datas from api by fetching. To the button...
 Day 08 (11-01-2024) - Today I am still researching new methods to set the category button by doing map() func, and by hovering on the names.
 
 Day 09 (12-01-2024) - Today completed the category button by fetching all the datas.
+
+Day 10 (03-02-2024) - Today done the blur effect, when the button is clicked.
